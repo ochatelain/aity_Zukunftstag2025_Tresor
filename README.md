@@ -17,8 +17,6 @@ Um dieses Repository in MakeCode zu bearbeiten.
 #### Metadaten (verwendet für Suche, Rendering)
 
 * for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
-
 * öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klicke auf **Importieren** und dann auf **Importiere URL**
 * füge **https://github.com/ochatelain/aity_zukunftstag2025_tresor** ein und klicke auf Importieren
